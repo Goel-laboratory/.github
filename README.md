@@ -1,7 +1,5 @@
 # 🧬 Goel Laboratory
 
-> 💻 Code and analysis underlying our research publications.
-
 ## 🔬 About the lab
 
 The Goel Laboratory, based at the **Peter MacCallum Cancer Centre** in Melbourne,
